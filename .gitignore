@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Excel output files (你的爬蟲 Excel 匯出)
+*.xlsx
+
+# IDE configs
+.vscode/
+.idea/
